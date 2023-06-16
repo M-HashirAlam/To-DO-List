@@ -1,0 +1,29 @@
+.box1 {
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  li {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+  
+  .btn1 {
+    background-color: #f44336;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .btn2 {
+    background-color: #2196f3;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
